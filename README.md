@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/github/followers/santina-v?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=EF93C4" alt="GitHub Followers">
 </a>
 
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
+<a href="https://github.com/santina-v?tab=repositories">
   <img src="https://img.shields.io/github/stars/santina-v?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F8BBD0" alt="GitHub Stars">
 </a>
 
