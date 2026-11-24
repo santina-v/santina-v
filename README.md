@@ -25,16 +25,16 @@
 
 <br><br>
 
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=EF93C4" alt="GitHub Followers">
+<a href="https://github.com/santina-v">
+  <img src="https://img.shields.io/github/followers/santina-v?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=EF93C4" alt="GitHub Followers">
 </a>
 
 <a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F8BBD0" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/santina-v?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F8BBD0" alt="GitHub Stars">
 </a>
 
 <img
-  src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS"
+  src="https://komarev.com/ghpvc/?username=santina-v&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS"
   alt="Profile Views"
 />
 
@@ -54,23 +54,19 @@
 <tr>
 <td width="65%" valign="middle">
 
-### Hi, I'm [YOUR NAME] 💗
+### Hi, I'm Santina 💗
 
-🎓 I'm a **[YOUR DEGREE / PROGRAM]** student at **[YOUR COLLEGE / UNIVERSITY]**.
+🎓 I'm a AI & Data Science student at Sri Krishna College of Engineering and Technology.
 
 💻 I'm passionate about **Data Analytics, Artificial Intelligence, Machine Learning, and Software Development**.
 
 📊 I enjoy transforming raw data into **meaningful insights, visualizations, and intelligent solutions**.
-
-🚀 Currently working on **[YOUR CURRENT PROJECT / AREA]**.
 
 🌱 Currently learning:
 
 - **[SKILL / TECHNOLOGY 1]**
 - **[SKILL / TECHNOLOGY 2]**
 - **[SKILL / TECHNOLOGY 3]**
-
-🎯 My career goal is to become a **[YOUR CAREER GOAL]**.
 
 💡 I love building projects, solving problems, participating in hackathons, and continuously learning new technologies.
 
@@ -86,9 +82,9 @@
 <br><br>
 
 <img
-  src="https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/raw/main/[YOUR_PROFILE_IMAGE].png"
+  src="https://github.com/santina-v/santina-v/raw/main/[YOUR_PROFILE_IMAGE].png"
   width="240"
-  alt="[YOUR NAME]"
+  alt="Santina"
 />
 
 </td>
@@ -110,7 +106,7 @@
 ### 👩‍💻 Programming Languages
 
 <img
-  src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript,r"
+  src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,r"
   alt="Programming Languages"
 />
 
@@ -128,7 +124,7 @@
 ### 🌐 Web Development
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring"
+  src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring"
   alt="Web Development"
 />
 
@@ -137,7 +133,7 @@
 ### 🗄️ Databases & Cloud
 
 <img
-  src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,aws,gcp,docker"
+  src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,docker"
   alt="Databases and Cloud"
 />
 
@@ -146,7 +142,7 @@
 ### ⚙️ Tools & Platforms
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"
+  src="https://skillicons.dev/icons?i=git,github,vscode,postman"
   alt="Tools and Platforms"
 />
 
@@ -166,13 +162,13 @@
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
+  src="https://github-readme-stats.vercel.app/api?username=santina-v&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
   alt="GitHub Stats"
 />
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=777777&bg_color=00000000"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=santina-v&layout=compact&hide_border=true&langs_count=8&title_color=EF93C4&text_color=777777&bg_color=00000000"
   alt="Top Languages"
 />
 
@@ -191,7 +187,7 @@
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=F8BBD0&dates=888888"
+  src="https://streak-stats.demolab.com?user=santina-v&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&currStreakNum=FF69B4&sideNums=F8BBD0&dates=888888"
   alt="GitHub Streak"
 />
 
@@ -210,7 +206,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=F8BBD0&hide_border=true&custom_title=[YOUR_USERNAME]%27s%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=santina-v&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=F8BBD0&hide_border=true&custom_title=santina-v%27s%20Contribution%20Graph"
   width="95%"
   alt="GitHub Contribution Graph"
 />
@@ -271,16 +267,16 @@ jobs:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/santina-v/santina-v/output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/santina-v/santina-v/output/github-contribution-grid-snake.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/santina-v/santina-v/output/github-contribution-grid-snake.svg"
     width="95%"
     alt="GitHub Contribution Snake"
   />
@@ -300,33 +296,33 @@ jobs:
 
 <div align="center">
 
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_PROJECT_1]">
+<a href="https://github.com/santina-v/https://github.com/santina-v/InsurGuard-AI.git">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[YOUR_PROJECT_1]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="[YOUR PROJECT 1]"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=https://github.com/santina-v/InsurGuard-AI.git&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
+    alt="https://github.com/santina-v/InsurGuard-AI.git"
   />
 </a>
 
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_PROJECT_2]">
+<a href="https://github.com/santina-v/https://github.com/santina-v/KnotBoard.git">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[YOUR_PROJECT_2]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="[YOUR PROJECT 2]"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=https://github.com/santina-v/KnotBoard.git&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
+    alt="https://github.com/santina-v/KnotBoard.git"
   />
 </a>
 
 <br>
 
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_PROJECT_3]">
+<a href="https://github.com/santina-v/[Your project 3]">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[YOUR_PROJECT_3]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=[YOUR_PROJECT_3]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
     alt="[YOUR PROJECT 3]"
   />
 </a>
 
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_PROJECT_4]">
+<a href="https://github.com/santina-v/https://github.com/santina-v/Nexus-AI.git">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[YOUR_PROJECT_4]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="[YOUR PROJECT 4]"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=https://github.com/santina-v/Nexus-AI.git&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
+    alt="https://github.com/santina-v/Nexus-AI.git"
   />
 </a>
 
@@ -344,65 +340,26 @@ jobs:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+<a href="https://www.linkedin.com/in/santina21">
   <img
     src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
-<a href="https://x.com/[YOUR_X_USERNAME]">
-  <img
-    src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"
-    alt="X"
-  />
-</a>
-
-<a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]">
+<a href="https://instagram.com/_._santina_._">
   <img
     src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram"
   />
 </a>
 
-<a href="https://www.tiktok.com/@[YOUR_TIKTOK_USERNAME]">
-  <img
-    src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white"
-    alt="TikTok"
-  />
-</a>
-
-<a href="https://www.youtube.com/@[YOUR_YOUTUBE_USERNAME]">
-  <img
-    src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
-  />
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:santina212006@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-Contact-EF93C4?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-<!--                         QUOTE                               -->
-<!-- ========================================================= -->
-
-<h2 align="center">💭 A Little Inspiration</h2>
-
-<div align="center">
-
-> ✨ **"[YOUR FAVORITE QUOTE]"**
-
-**— [YOUR NAME]**
 
 </div>
 
@@ -427,12 +384,12 @@ jobs:
 ### 💗 Thanks for visiting my profile!
 
 <img
-  src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=flat-square&color=EF93C4&label=VISITORS"
+  src="https://komarev.com/ghpvc/?username=santina-v&style=flat-square&color=EF93C4&label=VISITORS"
   alt="Profile Visitors"
 />
 
 <br><br>
 
-**[YOUR NAME] • [YOUR TAGLINE]**
+Santina V 
 
 </div>
