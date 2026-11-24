@@ -19,7 +19,7 @@
 # Hey there, I'm Santina 👋
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Full-Stack+Developer;Turning+Data+Into+Insights+✨"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Full-Stack+Developer;Turning+Data+Into+Insights"
   alt="Typing SVG"
 />
 
@@ -296,17 +296,17 @@ jobs:
 
 <div align="center">
 
-<a href="https://github.com/santina-v/https://github.com/santina-v/InsurGuard-AI.git">
+<a href="https://github.com/santina-v/InsurGuard-AI">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=https://github.com/santina-v/InsurGuard-AI.git&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="https://github.com/santina-v/InsurGuard-AI.git"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=InsurGuard-AI&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
+    alt="InsurGuard-AI"
   />
 </a>
 
-<a href="https://github.com/santina-v/https://github.com/santina-v/KnotBoard.git">
+<a href="https://github.com/santina-v/KnotBoard">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=https://github.com/santina-v/KnotBoard.git&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="https://github.com/santina-v/KnotBoard.git"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=KnotBoard&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
+    alt="KnotBoard"
   />
 </a>
 
@@ -319,10 +319,10 @@ jobs:
   />
 </a>
 
-<a href="https://github.com/santina-v/https://github.com/santina-v/Nexus-AI.git">
+<a href="https://github.com/santina-v/Nexus-AI">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=https://github.com/santina-v/Nexus-AI.git&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="https://github.com/santina-v/Nexus-AI.git"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=Nexus-AI&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
+    alt="Nexus-AI"
   />
 </a>
 
