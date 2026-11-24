@@ -296,41 +296,119 @@ jobs:
 
 <div align="center">
 
-<a href="https://github.com/santina-v/InsurGuard-AI">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=InsurGuard-AI&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="InsurGuard AI"
-  />
-</a>
+<table>
+<tr>
 
-<a href="https://github.com/santina-v/KnotBoard">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=KnotBoard&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="KnotBoard"
-  />
-</a>
+<td width="50%" valign="top">
 
-<br>
+<h3 align="center">
+  🛡️ InsurGuard AI
+</h3>
 
-<a href="https://github.com/santina-v/[Your project 3]">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=[YOUR_PROJECT_3]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="[YOUR PROJECT 3]"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/santina-v/InsurGuard-AI">
+    <img src="https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-<a href="https://github.com/santina-v/Nexus-AI">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=Nexus-AI&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="Nexus AI"
-  />
-</a>
+<p align="center">
+  AI-powered insurance fraud detection and investigation platform that analyzes claims, documents, and evidence to identify inconsistencies and generate explainable fraud risk insights.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Ollama-black?style=flat-square">
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">
+  📌 KnotBoard
+</h3>
+
+<p align="center">
+  <a href="https://github.com/santina-v/KnotBoard">
+    <img src="https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  A full-stack collaborative project management application built with Node.js and Spring Boot.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">
+  🤖 NEXUS AI
+</h3>
+
+<p align="center">
+  <a href="https://github.com/santina-v/Nexus-AI">
+    <img src="https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  Offline intelligent desktop AI assistant with local LLMs, document analysis, automation, web augmentation, and real-time system monitoring.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Ollama-black?style=flat-square">
+<img src="https://img.shields.io/badge/Llama_3-FF69B4?style=flat-square">
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">
+  📊 Data Analytics
+</h3>
+
+<p align="center">
+  <b>More projects coming soon...</b><br>
+  Building data-driven solutions with Python, SQL, statistics, visualization and machine learning.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-FF69B4?style=flat-square">
+<img src="https://img.shields.io/badge/Data_Analytics-F8BBD0?style=flat-square&logoColor=black">
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br>
-
----
 
 <!-- ========================================================= -->
 <!--                     CONNECT                                -->
