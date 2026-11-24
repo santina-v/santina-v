@@ -13,7 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: santina-v
@@ -21,10 +24,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Copy snake files
+        run: |
+          mkdir -p assets
+          cp dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
+          cp dist/github-contribution-grid-snake-dark.svg assets/github-contribution-grid-snake-dark.svg
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
         with:
-          build_dir: dist
-          build_type: gh-pages
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          message: "Update contribution snake"
+          add: "assets/"
