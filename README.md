@@ -299,7 +299,7 @@ jobs:
 <a href="https://github.com/santina-v/InsurGuard-AI">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=InsurGuard-AI&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="InsurGuard-AI"
+    alt="InsurGuard AI"
   />
 </a>
 
@@ -322,7 +322,7 @@ jobs:
 <a href="https://github.com/santina-v/Nexus-AI">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=santina-v&repo=Nexus-AI&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=777777&bg_color=00000000"
-    alt="Nexus-AI"
+    alt="Nexus AI"
   />
 </a>
 
